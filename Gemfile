@@ -17,7 +17,7 @@ gem 'authlogic', '5.0.2'
 # set up oauth capabilities. Note: :lib is replaced with :require in rails 3
 gem 'authlogic-oauth', '1.0.8'
 gem 'oauth', '~> 0.5.4'
-gem 'bcrypt', '~> 3.1', '>= 3.1.13'
+gem 'bcrypt'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
